@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/naman gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman gautam" height="30" width="40" /></a>
 <a href="https://instagram.com/naman____17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman____17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/naman55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naman55" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/clear_trout_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naman55" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h202311055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h202311055" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/namangautam172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="namangautam172" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naman_gautam17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naman_gautam17" height="30" width="40" /></a>
