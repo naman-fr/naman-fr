@@ -39,11 +39,11 @@ I am a Computer Science undergraduate at **IIIT Vadodara (ICD)** with a unique f
 * **Tech:** PyTorch, GNN, Solidity, BFS-CFG.
 * **Impact:** Engineered a dual-branch GNN that detects 6 major vulnerabilities (Reentrancy, Overflow, etc.) with **99.8% Accuracy**.
 
-#### 🚁 [Embedded Cage Drone Controller](https://github.com/naman-fr/high-rate-autopilot)
+#### 🚁 [Embedded Cage Drone Controller](https://github.com/naman-fr/embedded-cage-drone)
 * **Tech:** C++, ArduPilot, SITL, Kalman Filters.
 * **Impact:** Integrated modular high-rate control (400-1000 Hz) into the FAST TASK loop, achieving microsecond deterministic constraints.
 
-#### 🏥 [SAWL-Net](https://github.com/naman-fr/sawl-net) - Medical Imaging AI
+#### 🏥 [SAWL-Net](https://github.com/naman-fr/Cancer-Detection-in-Histapathological-Images) - Medical Imaging AI
 * **Tech:** MobileNet V2, Wavelet-inspired Conv1D, Grad-CAM.
 * **Impact:** Lightweight histopathology classification achieved near-100% accuracy on LC25000 with low-latency edge deployment.
 
