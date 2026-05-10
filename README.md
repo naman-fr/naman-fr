@@ -1,23 +1,30 @@
-<h1 align="center">Naman Gautam</h1>
+<h1 align="center">Hi 👋, I'm Naman Gautam</h1>
 <p align="center">
   Computer Science undergraduate • Systems, Security & AI/ML Engineer
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/naman-gautam-691158199"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:namangautam172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://naman-fr.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://portfolio-jet-beta-13.vercel.app/"><img src="https://img.shields.io/badge/New%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/naman-fr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/naman-gautam-691158199">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:namangautam172@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-jet-beta-13.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/naman-fr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About
+## About Me
 
-I am a Computer Science undergraduate at IIIT Vadodara – International Campus, building across **embedded systems, backend development, machine learning, and security research**.
+I am a Computer Science undergraduate at **IIIT Vadodara – International Campus (Diu)** with a strong interest in **embedded systems, backend development, machine learning, and security research**.
 
-My work focuses on practical engineering problems: deterministic systems, secure infrastructure, and applied ML for real-world domains such as radar processing, smart contract analysis, and medical imaging.
+I enjoy building practical, high-performance systems and working on problems that sit at the intersection of **software engineering, low-level systems, and applied AI**.
 
 ---
 
@@ -25,43 +32,44 @@ My work focuses on practical engineering problems: deterministic systems, secure
 
 - Systems programming and low-level engineering.
 - Backend development and API design.
-- Applied ML and deep learning research.
+- Applied machine learning and deep learning.
 - Security-oriented software and virtualization.
-- High-performance, reliable, and maintainable code.
+- Reliable, scalable, and maintainable engineering.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-| Area | Tools |
+| Category | Technologies |
 | --- | --- |
 | Languages | C, C++, Python, MATLAB, JavaScript, SQL |
-| Frameworks | React, Node.js, Django, Flask, PyTorch, NumPy, Pandas |
-| Infrastructure | PostgreSQL, MongoDB, Redis, Docker, Git, GCP, AWS, QEMU/KVM, Linux, CI/CD |
+| Frameworks & Libraries | React, Node.js, Django/Flask, PyTorch, NumPy, Pandas |
+| Databases & Infrastructure | PostgreSQL, MongoDB, Redis, Docker, Git, GCP, AWS, QEMU/KVM, Linux, CI/CD (GitHub Actions, Jenkins) |
 | Domains | Backend development, REST APIs, system design, virtualization, kernel security, ML/DL |
-| Communication | Leadership, mentoring, teamwork, documentation, problem-solving |
+| Soft Skills | Leadership, technical mentoring, communication, teamwork, problem-solving, analytical thinking, documentation |
 
 ---
 
 ## Experience
 
-### Research Intern, DRDO — Radar Signal Processing
+### Research Intern — DRDO, Radar Signal Processing
 **May 2025 – Jul 2025**
 
-- Worked on MATLAB-based phased-array beamforming and steering models.
-- Studied radiation patterns, sidelobe behavior, and detection performance under noise.
-- Analyzed radar datasets and maintained project code for prediction and experimentation.
+- Worked with MATLAB-based phased-array beamforming and steering models to study radiation patterns and sidelobe behavior.
+- Analyzed phase-shift strategies under varying noise conditions and their effect on target detection.
+- Evaluated radar datasets and maintained project code for radar array prediction and analysis.
 
-### Technical Leadership, IIITV-ICD
+### Technical Leadership — IIITV-ICD
 **Sep 2023 – Present**
 
 - Organized 10+ hands-on workshops on cloud computing, APIs, and machine learning.
-- Mentored 100+ students and supported Google Cloud program drives.
-- Helped drive completion of 150+ labs and 30+ skill badges.
+- Mentored 100+ students and led Google Cloud program drives.
+- Enabled completion of 150+ labs and 30+ skill badges through technical initiatives.
 
-### Teaching Assistant, EC161
-- Supported 120+ students in lab sessions and tutorials.
-- Prepared lab material, held office hours, and streamlined grading with automated evaluation scripts.
+### Teaching Assistant — EC161 (Lab & Tutorials)
+
+- Supported 120+ students during laboratory sessions and tutorials.
+- Prepared lab material, conducted office hours, and implemented automated evaluation scripts to streamline grading.
 
 ---
 
@@ -70,49 +78,49 @@ My work focuses on practical engineering problems: deterministic systems, secure
 ### EGFL — Smart Contract Vulnerability Detection
 **PyTorch, Solidity, CFG, GNN**
 
-- Built a static-analysis pipeline that converts EVM bytecode into control-flow graphs.
-- Applied attention-enhanced GNNs to detect vulnerabilities such as reentrancy, integer overflow, and unchecked calls.
+- Built a static-analysis workflow that converts EVM bytecode into control-flow graphs.
+- Applied attention-enhanced GNNs to detect reentrancy, integer overflow, and unchecked-call vulnerabilities.
 - Improved audit reliability through Word2Vec-based opcode tokenization and ablation-driven tuning.
 
 ### SAWL-Net — Lightweight Histopathology Classification
 **PyTorch, MobileNetV2, Medical Imaging**
 
-- Designed a MobileNetV2-based classifier with statistical attention and wavelet-inspired Conv1D modules.
+- Designed a MobileNetV2-based CNN with statistical attention and wavelet-inspired Conv1D modules.
 - Achieved near-100% accuracy on LC25000 with low-latency deployment characteristics.
-- Used Grad-CAM and t-SNE for interpretability and robustness validation.
+- Demonstrated interpretability using Grad-CAM and t-SNE visualizations.
 
-### Virtualization-Based Security for Linux
+### Virtualization-Based Security for Linux (VBS)
 **C, Linux, QEMU/KVM, Security**
 
-- Extended a QEMU/KVM security layer with kernel hooks for register and MSR monitoring.
-- Added checks for SMEP/SMAP validation and SHA-256 integrity verification.
-- Built incident-response actions including snapshot, isolate, and terminate with structured logging.
+- Enhanced a QEMU/KVM security layer with kernel hooks for MSR/register monitoring.
+- Added SMEP/SMAP validation and SHA-256 integrity verification against kernel tampering.
+- Integrated incident-response actions such as snapshot, isolate, and terminate with structured logging.
 
-### Quantum Circuit Simulator
+### Quantum Circuit Simulator — First Prize
 **Python, NumPy, QAOA**
 
 - Built a NumPy-based quantum circuit simulator with parameterized gates.
-- Implemented an optimized QAOA pipeline for NP-hard optimization tasks.
-- Contributed to a first-prize hackathon solution through convergence and energy analysis.
+- Developed an optimized QAOA pipeline for NP-hard optimization tasks.
+- Analyzed convergence and energy profiles as part of a competition-winning solution.
 
 ---
 
-## Achievements
+## Achievements & Awards
 
-- Codeforces Specialist, 1500+.
-- AtCoder 5kyu, 1000+.
-- LeetCode Knight, 300+ solved.
-- Winner, HACKIIITV'25.
-- GfG Campus Ambassador, 1000+ coding score.
+- Codeforces Specialist (1500+).
+- AtCoder 5kyu (1000+).
+- LeetCode Knight (300+ solved).
+- HACKIIITV'25 Winner.
+- GfG Profile: Campus Ambassador & 1000+ Coding Score.
 - SAC Technical Committee Member.
-- Postman API Fundamentals and GenAI Exchange.
+- Postman API Fundamentals; GenAI Exchange.
 - Student Placement Co-ordinator.
 
 ---
 
 ## Portfolio
 
-My portfolio: [portfolio-jet-beta-13.vercel.app](https://portfolio-jet-beta-13.vercel.app/)
+[portfolio-jet-beta-13.vercel.app](https://portfolio-jet-beta-13.vercel.app/)
 
 ---
 
