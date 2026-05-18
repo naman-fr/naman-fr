@@ -72,7 +72,7 @@ class NamanGautam:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naman-fr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79FF97&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true&custom_title=Naman's%20GitHub%20Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=450"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-fr&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 <br><br>
 
@@ -219,14 +219,7 @@ class NamanGautam:
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║  🤖 Rancho Labs   →   robotics firmware | embedded AI | C++       ║
-║  📡 DRDO          →   radar DSP | beamforming | MATLAB            ║
-║  🎓 IIIT Vadodara →   TA role | automation | student mentoring    ║
-║  ☁️ Cloud + GFG    →   community work | labs | technical events   ║
-╚════════════════════════════════════════════════════════════════════╝
-</div>
+
 ---
 
 ## 🏅 Competitive Programming
