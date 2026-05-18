@@ -62,15 +62,38 @@ class NamanGautam:
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naman-fr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-fr&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Open+Source+%7C+Systems+Programming+%7C+AI;Building+Scalable+and+Intelligent+Systems;Consistency+over+Intensity+%F0%9F%9A%80" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naman-fr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79FF97&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true&custom_title=Naman's%20GitHub%20Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=450"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=naman-fr&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79FF97&fire=FF6B6B&currStreakLabel=58A6FF"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-fr&theme=tokyonight" width="95%"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naman-fr&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naman-fr&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naman-fr&theme=tokyonight&utcOffset=5.5"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Embedded%20Systems%20%7C%20Robotics-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-79FF97?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tech%20Stack-Full%20Spectrum-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white"/>
+
 </div>
 
 ---
@@ -85,29 +108,7 @@ class NamanGautam:
   </picture>
 </div>
 
-> **Setup:** Add this workflow to `.github/workflows/snake.yml` in your profile repo to auto-generate the snake:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+
 
 ---
 
@@ -179,20 +180,53 @@ class NamanGautam:
 
 ## 💼 Experience Timeline
 
-```
-2026 (Present) ──── 🤖  Technical Associate @ Rancho Labs (IIT Delhi)
-                         Robotics firmware · AI curricula · Embedded C++
-                         
-2025 (Jun–Jul)  ──── 📡  Research Intern @ DRDO
-                         Phased-array beamforming · MATLAB · SNR < -10dB analysis
-                         
-2025 (Sep–Dec)  ──── 🎓  Teaching Assistant @ IIIT Vadodara (EC161)
-                         120+ students · 40% grading time saved with Python automation
-                         
-2024–2025       ──── ☁️  Google Cloud Facilitator + GFG Campus Ambassador
-                         150+ labs · 30+ skill badges · 3+ institute hackathons
-```
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Engineering+Across+AI+%2B+Systems+%2B+Hardware;Turning+Research+Into+Working+Systems;Building+with+Precision+and+Intent+%F0%9F%9A%80" />
+
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2026-Present-58A6FF?style=for-the-badge&logo=calendar&logoColor=white" /><br><br>
+      <h3>🤖 Rancho Labs</h3>
+      <p><b>IIT Delhi</b><br/>Robotics · Embedded C++ · Agentic AI</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2025-Jun--Jul-58A6FF?style=for-the-badge&logo=calendar&logoColor=white" /><br><br>
+      <h3>📡 DRDO</h3>
+      <p><b>Research Intern</b><br/>Radar DSP · Beamforming · MATLAB</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2025-Sep--Dec-58A6FF?style=for-the-badge&logo=calendar&logoColor=white" /><br><br>
+      <h3>🎓 IIIT Vadodara</h3>
+      <p><b>Teaching Assistant</b><br/>Mentorship · Automation · Labs</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2024--2025-Community-58A6FF?style=for-the-badge&logo=calendar&logoColor=white" /><br><br>
+      <h3>☁️ Cloud + GFG</h3>
+      <p><b>Facilitator / Ambassador</b><br/>Hackathons · Labs · Leadership</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║  🤖 Rancho Labs   →   robotics firmware | embedded AI | C++       ║
+║  📡 DRDO          →   radar DSP | beamforming | MATLAB            ║
+║  🎓 IIIT Vadodara →   TA role | automation | student mentoring    ║
+║  ☁️ Cloud + GFG    →   community work | labs | technical events   ║
+╚════════════════════════════════════════════════════════════════════╝
+</div>
 ---
 
 ## 🏅 Competitive Programming
