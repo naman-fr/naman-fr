@@ -51,13 +51,17 @@ class NamanGautam:
 ```
 
 ---
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Naman%20Gautam&fontAlignY=35&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=55" /> </p>
 
-## 🧬 Repository Ecosystem
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=naman-fr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+## ⚡ Engineering Metrics
+<p align="center"> 
+  <img width="100%" src="./github-metrics.svg" /> 
 </p>
 
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-fr&theme=tokyo-night&hide_border=true&area=true" /> 
+</p>
 ---
 
 # ⚡ GitHub Analytics
