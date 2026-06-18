@@ -51,16 +51,37 @@ class NamanGautam:
 ```
 
 ---
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Naman%20Gautam&fontAlignY=35&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=55" /> </p>
+## ⚡ Research & Engineering Profile
 
-## ⚡ Engineering Metrics
-<p align="center"> 
-  <img width="100%" src="./github-metrics.svg" /> 
+<p align="center">
+  <img width="100%" src="./github-metrics.svg" />
 </p>
 
-## 📈 Contribution Activity
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI%20%26%20ML-Research-blueviolet?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-IIT%20Delhi-success?style=for-the-badge)
+![Radar](https://img.shields.io/badge/Radar%20DSP-DRDO-critical?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge)
+![CP](https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge)
+
+</div>
+
+## 🏆 Competitive Programming Snapshot
+
+<div align="center">
+
+| Platform | Rating |
+|:---:|:---:|
+| Codeforces | Specialist (1550+) |
+| LeetCode | Knight (1850+) |
+| AtCoder | 4 Kyu |
+| HackerRank | 5★ |
+
+</div>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-fr&theme=tokyo-night&hide_border=true&area=true" /> 
+  <img height="185" src="https://leetcard.jacoblin.cool/Naman_Gautam17?theme=dark&font=JetBrains+Mono&ext=heatmap" />
 </p>
 ---
 
