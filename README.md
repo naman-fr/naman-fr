@@ -52,10 +52,12 @@ class NamanGautam:
 
 ---
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-fr&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naman-fr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-fr&theme=tokyonight" />
 </p>
 
 ---
