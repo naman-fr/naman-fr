@@ -51,30 +51,13 @@ class NamanGautam:
 ```
 
 ---
-## ⚡ Research & Engineering Profile
+## ⚡ Research • Engineering • Competitive Programming
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DRDO-Radar%20Systems-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IIT%20Delhi-Robotics-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-Agentic%20Workflows-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-Diamond%20League-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DRDO-Radar%20Research-red?style=for-the-badge"/>
 
-</div>
-
-<p align="center">
-  <img width="70%" src="./github-metrics.svg" />
-</p>
-
-
-## 🚀 Technical Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DRDO-Research%20Intern-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pratham%20Software-Python%20Intern-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PSI-Python%20Intern-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/IIT%20Delhi-Robotics-success?style=for-the-badge"/>
 
@@ -88,15 +71,21 @@ class NamanGautam:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Codeforces-Max%20Specialist-1F8ACB?style=flat-square&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-Max%20Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/AtCoder-4%20Kyu-00599C?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/HackerRank-5★-00EA64?style=flat-square&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-5★-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
 
 </div>
+
+<br>
+
+<p align="center">
+  <img width="60%" src="./github-metrics.svg" />
+</p>
 ```
 
 
