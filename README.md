@@ -54,36 +54,36 @@ class NamanGautam:
 ## ⚡ Research & Engineering Profile
 
 <p align="center">
-  <img width="100%" src="./github-metrics.svg" />
+  <img width="75%" src="./github-metrics.svg" />
 </p>
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/AI%20%26%20ML-Research-blueviolet?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-IIT%20Delhi-success?style=for-the-badge)
-![Radar](https://img.shields.io/badge/Radar%20DSP-DRDO-critical?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge)
-![CP](https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Research-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-IIT%20Delhi-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Radar%20DSP-DRDO-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge"/>
 
 </div>
 
-## 🏆 Competitive Programming Snapshot
+## 🏆 Competitive Programming
 
 <div align="center">
 
-| Platform | Rating |
-|:---:|:---:|
-| Codeforces | Specialist (1550+) |
-| LeetCode | Knight (1850+) |
-| AtCoder | 4 Kyu |
-| HackerRank | 5★ |
+<img src="https://img.shields.io/badge/Codeforces-Specialist%20(1550+)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Knight%20(1850+)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AtCoder-4%20Kyu-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HackerRank-5★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
 </div>
 
 <p align="center">
-  <img height="185" src="https://leetcard.jacoblin.cool/Naman_Gautam17?theme=dark&font=JetBrains+Mono&ext=heatmap" />
+  <img width="95%" src="https://leetcard.jacoblin.cool/Naman_Gautam17?theme=dark&font=JetBrains+Mono&ext=heatmap" />
 </p>
----
 
 # ⚡ GitHub Analytics
 
