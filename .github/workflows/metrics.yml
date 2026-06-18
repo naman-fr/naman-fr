@@ -43,4 +43,4 @@ jobs:
           # Technologies / topics
           plugin_topics: yes
           plugin_topics_limit: 12
-```
+
