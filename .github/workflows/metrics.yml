@@ -1,9 +1,9 @@
-
+```yaml
 name: Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,33 +23,33 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
 
           config_timezone: Asia/Kolkata
 
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-
+          # Languages
           plugin_languages: yes
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
 
-          plugin_habits: yes
-          plugin_habits_days: 30
-
+          # Coding activity
           plugin_lines: yes
-          plugin_stargazers: yes
-          plugin_followup: yes
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+
+          # Technologies / Topics
           plugin_topics: yes
-          plugin_topics_limit: 20
+          plugin_topics_limit: 18
+
+          # Highlight notable repos
           plugin_notable: yes
 
+          # Featured repositories
           plugin_repositories: yes
           plugin_repositories_featured: naman-fr/EGFL,naman-fr/PSI_resume_analyser,naman-fr/Cancer-Detection-in-Histapathological-Images
 
-          plugin_leetcode: yes
-          plugin_leetcode_user: YOUR_LEETCODE_USERNAME
-
-          plugin_isocalendar: yes
+          # Display independently
+          plugin_introduction: yes
 ```
