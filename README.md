@@ -52,11 +52,10 @@ class NamanGautam:
 
 ---
 
-## 🤖 AI & Research Snapshot
+## 🧬 Repository Ecosystem
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naman-fr&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naman-fr&theme=tokyonight" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=naman-fr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
