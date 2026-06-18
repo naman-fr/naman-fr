@@ -52,12 +52,11 @@ class NamanGautam:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-fr&theme=tokyonight&hide_border=true" />
-</p>
+## 🤖 AI & Research Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-fr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naman-fr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naman-fr&theme=tokyonight" />
 </p>
 
 ---
