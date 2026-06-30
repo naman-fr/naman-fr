@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.57877826494604" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="390.57877826494604" y="0" width="35.05791202249869" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="425.6366902874447" y="0" width="14.897581375300591" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.5342716627453" y="0" width="7.431761245242795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.9660329079881" y="0" width="5.279327628780517" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.24536053676866" y="0" width="3.020622889266315" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.26598342603495" y="0" width="2.145725165072409" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.4117085911073" y="0" width="1.588291408892634" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.5115503688402" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="390.5115503688402" y="0" width="35.051877722126285" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="425.56342809096645" y="0" width="14.89501714726604" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.4584452382325" y="0" width="7.430482062397535" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.88892730063003" y="0" width="5.35637005392804" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.2452973545581" y="0" width="3.0201029682335423" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.26540032279166" y="0" width="2.146581651038459" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.4119819738301" y="0" width="1.5880180261699544" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>84.91%</div>
+                                <div>84.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.15%</div>
+                                <div>1.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1162,6 +1162,11 @@
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
                             <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
